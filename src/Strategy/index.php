@@ -22,11 +22,9 @@
  * não requer modificar qualquer uma das classes.
  */
 
-require '../../vendor/autoload.php';
+namespace Lerox\Patterns\Strategy;
 
-use Lerox\Patterns\Strategy\ObjectCollection;
-use Lerox\Patterns\Strategy\IdComparator;
-use Lerox\Patterns\Strategy\DateComparator;
+require '../../vendor/autoload.php';
 
 $elements = array(
     array(
