@@ -1,0 +1,13 @@
+{
+    "name": "lerox/patterns",
+    "authors": [
+        {
+            "name": "Leandro Diniz",
+            "email": "lerox@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Lerox\\Patterns\\": "src/"}
+    }
+}
