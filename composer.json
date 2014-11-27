@@ -8,6 +8,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Lerox\\Patterns\\": "src/"}
+        "psr-4": {"Lerox\\Patterns\\": "src/Lerox/Patterns/"}
     }
 }

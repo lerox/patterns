@@ -24,7 +24,7 @@
 
 namespace Lerox\Patterns\Strategy;
 
-require '../../vendor/autoload.php';
+require '../../../../vendor/autoload.php';
 
 $elements = array(
     array(

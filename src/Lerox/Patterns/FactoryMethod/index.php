@@ -2,7 +2,7 @@
 
 namespace Lerox\Patterns\FactoryMethod;
 
-require '../../vendor/autoload.php';
+require '../../../../vendor/autoload.php';
 
 $germanFactory = new GermanFactory();
 $italianFactory = new ItalianFactory();
