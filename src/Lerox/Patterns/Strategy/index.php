@@ -13,14 +13,14 @@
  *
  * --
  *
- * O pattern Strategy permite definir estratégias diferentes e facilmente
- * Alternar entre elas.
+ * O pattern Strategy permite definir estratégias diferentes e facilmente
+ * Alternar entre elas.
  *
- * Temos um ObjectCollection que é uma classe de armazenamento de dados classificáveis.
- * Nós definimos duas estratégias: comparar por data e comparar por id.
- * Como você pode ver, alternar entre elas ou até mesmo a adição de uma nova estratégia
- * não requer modificar qualquer uma das classes.
- */
+ * Temos um ObjectCollection que é uma classe de armazenamento de dados classificáveis.
+ * Nós definimos duas estratégias: comparar por data e comparar por id.
+ * Como você pode ver, alternar entre elas ou até mesmo a adição de uma nova estratégia
+ * não requer modificar qualquer uma das classes.
+ */
 
 namespace Lerox\Patterns\Strategy;
 
