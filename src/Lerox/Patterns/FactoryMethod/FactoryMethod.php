@@ -9,7 +9,6 @@ namespace Lerox\Patterns\FactoryMethod;
  */
 abstract class FactoryMethod
 {
-
     const CHEAP = 1;
     const FAST = 2;
 
